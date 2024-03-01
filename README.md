@@ -1,11 +1,15 @@
-### All About Me 💟
-Full-Time Student at Temple University
- Information Science & Technology Major
-Beginner coder: Familar with Java, HTML, CSS
-Currently Learning: Java [Data Structures], Oracle SQL & Database Creation
+# All About Me 💟
+## Temple University 🦉: Full-Time Information Science & Technology Major
+### Beginner coder 💻
+> Familar with Java, HTML, CSS 
 
-### 2024 GOALS 
-I
+**Currently Learning 📚** 
+> Java [Data Structures], Oracle SQL & Database Creation 
+
+## 2024 GOALS  
+- Learn how to use Github
+- Create my first project
+- Build a personal website
 <!--
 **VicoVee/vicovee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
