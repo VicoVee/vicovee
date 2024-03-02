@@ -1,4 +1,4 @@
-# All About Me 💟
+# All About Me
 ## Temple University 🦉: Full-Time Information Science & Technology Major
 ### Beginner coder 💻
 > Familar with Java, HTML, CSS 
