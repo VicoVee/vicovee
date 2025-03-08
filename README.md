@@ -4,7 +4,7 @@
 > Familar with Java, HTML, CSS 
 
 **Currently Learning 📚** 
-> Java [Data Structures], Oracle SQL & Database Creation 
+> C#
 
 ## 2024 GOALS  
 - Learn how to use Github
