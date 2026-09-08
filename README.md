@@ -2,6 +2,7 @@
 ## Temple University 🦉: Full-Time Information Science & Technology Major
 ### Beginner coder 💻
 > Familiar with Java, HTML, CSS, Python, C#, C
+
 > Time to commit everything, RIP .env
 
 **Currently Learning 📚** 
